@@ -1,0 +1,11 @@
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\bin\Debug\Kanban_location.exe.config
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\bin\Debug\Kanban_location.exe
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\bin\Debug\Kanban_location.pdb
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\obj\Debug\Kanban_location.csproj.AssemblyReference.cache
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\obj\Debug\Kanban_location.Form1.resources
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\obj\Debug\Kanban_location.Properties.Resources.resources
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\obj\Debug\Kanban_location.csproj.GenerateResource.cache
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\obj\Debug\Kanban_location.csproj.CoreCompileInputs.cache
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\obj\Debug\Kanban_location.exe
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\obj\Debug\Kanban_location.pdb
+C:\Users\admis\source\repos\Kanban_location\Kanban_location\bin\Debug\Kanban_location.accdb
